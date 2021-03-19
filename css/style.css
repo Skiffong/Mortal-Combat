@@ -1,0 +1,7 @@
+@import "_normalize.min.css";
+@import "_fonts.css";
+@import "_global.css";
+@import "normalize.css";
+
+/* components imports */
+@import "page.css";
